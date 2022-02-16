@@ -1,0 +1,4 @@
+Eggs
+Bacon
+Waffles
+Coffee
